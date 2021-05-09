@@ -12,6 +12,9 @@ video stream. It is also possible to provide mass screening, and it can
 be used in congested or crowded areas such as stores, malls, and 
 colleges, and others.
 
+**P.S. : Some files are not available in this repository like "messase.py" due to API keys and personal information.**
+
+
 ## Demonstration Video
 
 
