@@ -1,4 +1,4 @@
-# mask_detection
+# Mask Detection and Penalty System
 
 According to the World Health Organization (WHO), wearing masks 
 in public places or congested areas is the most important form of
